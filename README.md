@@ -17,14 +17,14 @@ x. I created a OneHotEncoder for the attrition column, then fit the encoder to t
 
 
 **Part 2: Create, Compile, and Train the Model**
-I determined  the number of columns in the X training data.
-I created the input layer and at least two shared layers.
-I created a branch to predict the department target column, using one hidden layer and one output layer.
-I created a branch to predict the attrition target column, using one hidden layer and one output layer.
-I created, compiled, and summarized the model.
-I then trained the model using the preprocessed data.
-I evaluated the model with the testing data.
-I then printed the accuracy for both department and attrition.
+i. I determined  the number of columns in the X training data.
+ii. I created the input layer and at least two shared layers.
+iii. I created a branch to predict the department target column, using one hidden layer and one output layer.
+iv. I created a branch to predict the attrition target column, using one hidden layer and one output layer.
+v. I created, compiled, and summarized the model.
+vi. I then trained the model using the preprocessed data.
+vii. I evaluated the model with the testing data.
+viii. I then printed the accuracy for both department and attrition.
 
 
 **Part 3: Summary**
